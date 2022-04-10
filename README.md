@@ -1,13 +1,12 @@
 # PyBer with Matplotlib
 
 ## Exploratory analysis on data from a ride-sharing app company
+### To help PyBer improve access to ride-sharing services and determine affordability for under-served neighborhoods.
 - Create a summary DataFrame containing the following:
     - The total number of rides, drivers, and fares for each city type.
     - The average fare per ride for each city type.
     - The average fare per driver for each city type.
 - Create a multiple line chart that shows the total weekly fares for each type of city.
-
-### To help PyBer improve access to ride-sharing services and determine affordability for under-served neighborhoods.
 
 ## Results
 ### Analysis Summary by City Type
