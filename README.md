@@ -7,8 +7,7 @@
     - The average fare per driver for each city type.
 - Create a multiple line chart that shows the total weekly fares for each type of city.
 
-### Purpose
-To help PyBer improve access to ride-sharing services and determine affordability for under-served neighborhoods.
+### To help PyBer improve access to ride-sharing services and determine affordability for under-served neighborhoods.
 
 ## Results
 ### Analysis Summary by City Type
