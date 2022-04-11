@@ -2,11 +2,11 @@
 
 ## Exploratory analysis on data from a ride-sharing app company
 ### To help PyBer improve access to ride-sharing services and determine affordability for under-served neighborhoods.
-- Created a summary DataFrame containing the following:
+1. Create a summary DataFrame containing the following:
     - The total number of rides, drivers, and fares for each city type.
     - The average fare per ride for each city type.
     - The average fare per driver for each city type.
-- Created a multiple line chart that shows the total weekly fares for each type of city.
+2. Create a multiple line chart that shows the total weekly fares for each type of city.
 
 ### Resources
 - Data Source: city_data.csv, ride_data.csv
